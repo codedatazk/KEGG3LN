@@ -1,0 +1,598 @@
+keggid	keggname	spec
+KP09100	Metabolism	Rice
+KP09120	Genetic Information Processing	Rice
+KP09130	Environmental Information Processing	Rice
+KP09140	Cellular Processes	Rice
+KP09150	Organismal Systems	Rice
+KP09160	Human Diseases	Rice
+KP09180	Brite Hierarchies	Rice
+KP09190	Not Included in Pathway or Brite	Rice
+KP09101	Carbohydrate metabolism	Rice
+KP09102	Energy metabolism	Rice
+KP09103	Lipid metabolism	Rice
+KP09104	Nucleotide metabolism	Rice
+KP09105	Amino acid metabolism	Rice
+KP09106	Metabolism of other amino acids	Rice
+KP09107	Glycan biosynthesis and metabolism	Rice
+KP09108	Metabolism of cofactors and vitamins	Rice
+KP09109	Metabolism of terpenoids and polyketides	Rice
+KP09110	Biosynthesis of other secondary metabolites	Rice
+KP09111	Xenobiotics biodegradation and metabolism	Rice
+KP09112	Not included in regular maps	Rice
+KP09121	Transcription	Rice
+KP09122	Translation	Rice
+KP09123	Folding, sorting and degradation	Rice
+KP09124	Replication and repair	Rice
+KP09125	Information processing in viruses	Rice
+KP09131	Membrane transport	Rice
+KP09132	Signal transduction	Rice
+KP09133	Signaling molecules and interaction	Rice
+KP09141	Transport and catabolism	Rice
+KP09143	Cell growth and death	Rice
+KP09144	Cellular community - eukaryotes	Rice
+KP09145	Cellular community - prokaryotes	Rice
+KP09142	Cell motility	Rice
+KP09151	Immune system	Rice
+KP09152	Endocrine system	Rice
+KP09153	Circulatory system	Rice
+KP09154	Digestive system	Rice
+KP09155	Excretory system	Rice
+KP09156	Nervous system	Rice
+KP09157	Sensory system	Rice
+KP09158	Development and regeneration	Rice
+KP09149	Aging	Rice
+KP09159	Environmental adaptation	Rice
+KP09161	Cancer: overview	Rice
+KP09162	Cancer: specific types	Rice
+KP09172	Infectious disease: viral	Rice
+KP09171	Infectious disease: bacterial	Rice
+KP09174	Infectious disease: parasitic	Rice
+KP09163	Immune disease	Rice
+KP09164	Neurodegenerative disease	Rice
+KP09165	Substance dependence	Rice
+KP09166	Cardiovascular disease	Rice
+KP09167	Endocrine and metabolic disease	Rice
+KP09175	Drug resistance: antimicrobial	Rice
+KP09176	Drug resistance: antineoplastic	Rice
+KP09181	Protein families: metabolism	Rice
+KP09182	Protein families: genetic information processing	Rice
+KP09183	Protein families: signaling and cellular processes	Rice
+KP09185	Viral protein families	Rice
+KP09184	RNA family	Rice
+KP09191	Unclassified: metabolism	Rice
+KP09192	Unclassified: genetic information processing	Rice
+KP09193	Unclassified: signaling and cellular processes	Rice
+KP09194	Poorly characterized	Rice
+KP00010	Gycolysis / Gluconeogenesis [PATH:osa00010]	Rice
+KP00020	Citrate cycle (TCA cycle) [PATH:osa00020]	Rice
+KP00030	Pentose phosphate pathway [PATH:osa00030]	Rice
+KP00040	Pentose and glucuronate interconversions [PATH:osa00040]	Rice
+KP00051	Fructose and mannose metabolism [PATH:osa00051]	Rice
+KP00052	Galactose metabolism [PATH:osa00052]	Rice
+KP00053	Ascorbate and aldarate metabolism [PATH:osa00053]	Rice
+KP00500	Starch and sucrose metabolism [PATH:osa00500]	Rice
+KP00520	Amino sugar and nucleotide sugar metabolism [PATH:osa00520]	Rice
+KP00620	Pyruvate metabolism [PATH:osa00620]	Rice
+KP00630	Glyoxylate and dicarboxylate metabolism [PATH:osa00630]	Rice
+KP00640	Propanoate metabolism [PATH:osa00640]	Rice
+KP00650	Butanoate metabolism [PATH:osa00650]	Rice
+KP00660	C5-Branched dibasic acid metabolism [PATH:osa00660]	Rice
+KP00562	Inositol phosphate metabolism [PATH:osa00562]	Rice
+KP00190	Oxidative phosphorylation [PATH:osa00190]	Rice
+KP00195	Photosynthesis [PATH:osa00195]	Rice
+KP00196	Photosynthesis - antenna proteins [PATH:osa00196]	Rice
+KP00710	Carbon fixation in photosynthetic organisms [PATH:osa00710]	Rice
+KP00720	Carbon fixation pathways in prokaryotes	Rice
+KP00680	Methane metabolism	Rice
+KP00910	Nitrogen metabolism [PATH:osa00910]	Rice
+KP00920	Sulfur metabolism [PATH:osa00920]	Rice
+KP00061	Fatty acid biosynthesis [PATH:osa00061]	Rice
+KP00062	Fatty acid elongation [PATH:osa00062]	Rice
+KP00071	Fatty acid degradation [PATH:osa00071]	Rice
+KP00073	Cutin, suberine and wax biosynthesis [PATH:osa00073]	Rice
+KP00100	Steroid biosynthesis [PATH:osa00100]	Rice
+KP00120	Primary bile acid biosynthesis	Rice
+KP00121	Secondary bile acid biosynthesis	Rice
+KP00140	Steroid hormone biosynthesis	Rice
+KP00561	Glycerolipid metabolism [PATH:osa00561]	Rice
+KP00564	Glycerophospholipid metabolism [PATH:osa00564]	Rice
+KP00565	Ether lipid metabolism [PATH:osa00565]	Rice
+KP00600	Sphingolipid metabolism [PATH:osa00600]	Rice
+KP00590	Arachidonic acid metabolism [PATH:osa00590]	Rice
+KP00591	Linoleic acid metabolism [PATH:osa00591]	Rice
+KP00592	alpha-Linolenic acid metabolism [PATH:osa00592]	Rice
+KP01040	Biosynthesis of unsaturated fatty acids [PATH:osa01040]	Rice
+KP00230	Purine metabolism [PATH:osa00230]	Rice
+KP00240	Pyrimidine metabolism [PATH:osa00240]	Rice
+KP00250	Alanine, aspartate and glutamate metabolism [PATH:osa00250]	Rice
+KP00260	Glycine, serine and threonine metabolism [PATH:osa00260]	Rice
+KP00270	Cysteine and methionine metabolism [PATH:osa00270]	Rice
+KP00280	Valine, leucine and isoleucine degradation [PATH:osa00280]	Rice
+KP00290	Valine, leucine and isoleucine biosynthesis [PATH:osa00290]	Rice
+KP00300	Lysine biosynthesis [PATH:osa00300]	Rice
+KP00310	Lysine degradation [PATH:osa00310]	Rice
+KP00220	Arginine biosynthesis [PATH:osa00220]	Rice
+KP00330	Arginine and proline metabolism [PATH:osa00330]	Rice
+KP00340	Histidine metabolism [PATH:osa00340]	Rice
+KP00350	Tyrosine metabolism [PATH:osa00350]	Rice
+KP00360	Phenylalanine metabolism [PATH:osa00360]	Rice
+KP00380	Tryptophan metabolism [PATH:osa00380]	Rice
+KP00400	Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:osa00400]	Rice
+KP00410	beta-Alanine metabolism [PATH:osa00410]	Rice
+KP00430	Taurine and hypotaurine metabolism [PATH:osa00430]	Rice
+KP00440	Phosphonate and phosphinate metabolism [PATH:osa00440]	Rice
+KP00450	Selenocompound metabolism [PATH:osa00450]	Rice
+KP00460	Cyanoamino acid metabolism [PATH:osa00460]	Rice
+KP00470	D-Amino acid metabolism [PATH:osa00470]	Rice
+KP00480	Glutathione metabolism [PATH:osa00480]	Rice
+KP00510	N-Glycan biosynthesis [PATH:osa00510]	Rice
+KP00513	Various types of N-glycan biosynthesis [PATH:osa00513]	Rice
+KP00512	Mucin type O-glycan biosynthesis	Rice
+KP00515	Mannose type O-glycan biosynthesis	Rice
+KP00514	Other types of O-glycan biosynthesis [PATH:osa00514]	Rice
+KP00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	Rice
+KP00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	Rice
+KP00533	Glycosaminoglycan biosynthesis - keratan sulfate	Rice
+KP00531	Glycosaminoglycan degradation [PATH:osa00531]	Rice
+KP00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis [PATH:osa00563]	Rice
+KP00601	Glycosphingolipid biosynthesis - lacto and neolacto series [PATH:osa00601]	Rice
+KP00603	Glycosphingolipid biosynthesis - globo and isoglobo series [PATH:osa00603]	Rice
+KP00604	Glycosphingolipid biosynthesis - ganglio series [PATH:osa00604]	Rice
+KP00540	Lipopolysaccharide biosynthesis	Rice
+KP00542	O-Antigen repeat unit biosynthesis	Rice
+KP00541	O-Antigen nucleotide sugar biosynthesis	Rice
+KP00550	Peptidoglycan biosynthesis	Rice
+KP00511	Other glycan degradation [PATH:osa00511]	Rice
+KP00571	Lipoarabinomannan (LAM) biosynthesis	Rice
+KP00572	Arabinogalactan biosynthesis - Mycobacterium	Rice
+KP00730	Thiamine metabolism [PATH:osa00730]	Rice
+KP00740	Riboflavin metabolism [PATH:osa00740]	Rice
+KP00750	Vitamin B6 metabolism [PATH:osa00750]	Rice
+KP00760	Nicotinate and nicotinamide metabolism [PATH:osa00760]	Rice
+KP00770	Pantothenate and CoA biosynthesis [PATH:osa00770]	Rice
+KP00780	Biotin metabolism [PATH:osa00780]	Rice
+KP00785	Lipoic acid metabolism [PATH:osa00785]	Rice
+KP00790	Folate biosynthesis [PATH:osa00790]	Rice
+KP00670	One carbon pool by folate [PATH:osa00670]	Rice
+KP00830	Retinol metabolism	Rice
+KP00860	Porphyrin metabolism [PATH:osa00860]	Rice
+KP00130	Ubiquinone and other terpenoid-quinone biosynthesis [PATH:osa00130]	Rice
+KP00900	Terpenoid backbone biosynthesis [PATH:osa00900]	Rice
+KP00902	Monoterpenoid biosynthesis [PATH:osa00902]	Rice
+KP00909	Sesquiterpenoid and triterpenoid biosynthesis [PATH:osa00909]	Rice
+KP00904	Diterpenoid biosynthesis [PATH:osa00904]	Rice
+KP00906	Carotenoid biosynthesis [PATH:osa00906]	Rice
+KP00905	Brassinosteroid biosynthesis [PATH:osa00905]	Rice
+KP00981	Insect hormone biosynthesis	Rice
+KP00908	Zeatin biosynthesis [PATH:osa00908]	Rice
+KP00903	Limonene and pinene degradation [PATH:osa00903]	Rice
+KP00281	Geraniol degradation	Rice
+KP01052	Type I polyketide structures	Rice
+KP00522	Biosynthesis of 12-, 14- and 16-membered macrolides	Rice
+KP01051	Biosynthesis of ansamycins	Rice
+KP01059	Biosynthesis of enediyne antibiotics	Rice
+KP01056	Biosynthesis of type II polyketide backbone	Rice
+KP01057	Biosynthesis of type II polyketide products	Rice
+KP00253	Tetracycline biosynthesis	Rice
+KP00523	Polyketide sugar unit biosynthesis	Rice
+KP01054	Nonribosomal peptide structures	Rice
+KP01053	Biosynthesis of siderophore group nonribosomal peptides	Rice
+KP01055	Biosynthesis of vancomycin group antibiotics	Rice
+KP00940	Phenylpropanoid biosynthesis [PATH:osa00940]	Rice
+KP00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis [PATH:osa00945]	Rice
+KP00941	Flavonoid biosynthesis [PATH:osa00941]	Rice
+KP00944	Flavone and flavonol biosynthesis [PATH:osa00944]	Rice
+KP00942	Anthocyanin biosynthesis [PATH:osa00942]	Rice
+KP00943	Isoflavonoid biosynthesis	Rice
+KP00901	Indole alkaloid biosynthesis	Rice
+KP00403	Indole diterpene alkaloid biosynthesis	Rice
+KP00950	Isoquinoline alkaloid biosynthesis [PATH:osa00950]	Rice
+KP00960	Tropane, piperidine and pyridine alkaloid biosynthesis [PATH:osa00960]	Rice
+KP00996	Biosynthesis of various alkaloids	Rice
+KP00232	Caffeine metabolism [PATH:osa00232]	Rice
+KP00965	Betalain biosynthesis [PATH:osa00965]	Rice
+KP00966	Glucosinolate biosynthesis [PATH:osa00966]	Rice
+KP00402	Benzoxazinoid biosynthesis [PATH:osa00402]	Rice
+KP00311	Penicillin and cephalosporin biosynthesis	Rice
+KP00332	Carbapenem biosynthesis	Rice
+KP00261	Monobactam biosynthesis [PATH:osa00261]	Rice
+KP00331	Clavulanic acid biosynthesis	Rice
+KP00521	Streptomycin biosynthesis	Rice
+KP00524	Neomycin, kanamycin and gentamicin biosynthesis	Rice
+KP00525	Acarbose and validamycin biosynthesis	Rice
+KP00401	Novobiocin biosynthesis	Rice
+KP00404	Staurosporine biosynthesis	Rice
+KP00405	Phenazine biosynthesis	Rice
+KP00333	Prodigiosin biosynthesis	Rice
+KP00254	Aflatoxin biosynthesis	Rice
+KP00998	Biosynthesis of various antibiotics	Rice
+KP00999	Biosynthesis of various plant secondary metabolites [PATH:osa00999]	Rice
+KP00997	Biosynthesis of various other secondary metabolites	Rice
+KP00362	Benzoate degradation	Rice
+KP00627	Aminobenzoate degradation	Rice
+KP00364	Fluorobenzoate degradation	Rice
+KP00625	Chloroalkane and chloroalkene degradation	Rice
+KP00361	Chlorocyclohexane and chlorobenzene degradation	Rice
+KP00623	Toluene degradation	Rice
+KP00622	Xylene degradation	Rice
+KP00633	Nitrotoluene degradation	Rice
+KP00642	Ethylbenzene degradation	Rice
+KP00643	Styrene degradation	Rice
+KP00791	Atrazine degradation	Rice
+KP00930	Caprolactam degradation	Rice
+KP00363	Bisphenol degradation	Rice
+KP00621	Dioxin degradation	Rice
+KP00626	Naphthalene degradation	Rice
+KP00624	Polycyclic aromatic hydrocarbon degradation	Rice
+KP00365	Furfural degradation	Rice
+KP00984	Steroid degradation	Rice
+KP00980	Metabolism of xenobiotics by cytochrome P450	Rice
+KP00982	Drug metabolism - cytochrome P450	Rice
+KP00983	Drug metabolism - other enzymes	Rice
+KP09113	Global maps only	Rice
+KP03020	RNA polymerase [PATH:osa03020]	Rice
+KP03022	Basal transcription factors [PATH:osa03022]	Rice
+KP03040	Spliceosome [PATH:osa03040]	Rice
+KP03010	Ribosome [PATH:osa03010]	Rice
+KP00970	Aminoacyl-tRNA biosynthesis [PATH:osa00970]	Rice
+KP03013	Nucleocytoplasmic transport [PATH:osa03013]	Rice
+KP03015	mRNA surveillance pathway [PATH:osa03015]	Rice
+KP03008	Ribosome biogenesis in eukaryotes [PATH:osa03008]	Rice
+KP03060	Protein export [PATH:osa03060]	Rice
+KP04141	Protein processing in endoplasmic reticulum [PATH:osa04141]	Rice
+KP04130	SNARE interactions in vesicular transport [PATH:osa04130]	Rice
+KP04120	Ubiquitin mediated proteolysis [PATH:osa04120]	Rice
+KP04122	Sulfur relay system [PATH:osa04122]	Rice
+KP03050	Proteasome [PATH:osa03050]	Rice
+KP03018	RNA degradation [PATH:osa03018]	Rice
+KP03030	DNA replication [PATH:osa03030]	Rice
+KP03410	Base excision repair [PATH:osa03410]	Rice
+KP03420	Nucleotide excision repair [PATH:osa03420]	Rice
+KP03430	Mismatch repair [PATH:osa03430]	Rice
+KP03440	Homologous recombination [PATH:osa03440]	Rice
+KP03450	Non-homologous end-joining [PATH:osa03450]	Rice
+KP03460	Fanconi anemia pathway	Rice
+KP03230	Viral genome structure	Rice
+KP03240	Viral replication	Rice
+KP02010	ABC transporters [PATH:osa02010]	Rice
+KP02060	Phosphotransferase system (PTS)	Rice
+KP03070	Bacterial secretion system	Rice
+KP02020	Two-component system	Rice
+KP04010	MAPK signaling pathway	Rice
+KP04013	MAPK signaling pathway - fly	Rice
+KP04016	MAPK signaling pathway - plant [PATH:osa04016]	Rice
+KP04011	MAPK signaling pathway - yeast	Rice
+KP04012	ErbB signaling pathway	Rice
+KP04014	Ras signaling pathway	Rice
+KP04015	Rap1 signaling pathway	Rice
+KP04310	Wnt signaling pathway	Rice
+KP04330	Notch signaling pathway	Rice
+KP04340	Hedgehog signaling pathway	Rice
+KP04341	Hedgehog signaling pathway - fly	Rice
+KP04350	TGF-beta signaling pathway	Rice
+KP04390	Hippo signaling pathway	Rice
+KP04391	Hippo signaling pathway - fly	Rice
+KP04392	Hippo signaling pathway - multiple species	Rice
+KP04370	VEGF signaling pathway	Rice
+KP04371	Apelin signaling pathway	Rice
+KP04630	JAK-STAT signaling pathway	Rice
+KP04064	NF-kappa B signaling pathway	Rice
+KP04668	TNF signaling pathway	Rice
+KP04066	HIF-1 signaling pathway	Rice
+KP04068	FoxO signaling pathway	Rice
+KP04020	Calcium signaling pathway	Rice
+KP04070	Phosphatidylinositol signaling system [PATH:osa04070]	Rice
+KP04072	Phospholipase D signaling pathway	Rice
+KP04071	Sphingolipid signaling pathway	Rice
+KP04024	cAMP signaling pathway	Rice
+KP04022	cGMP-PKG signaling pathway	Rice
+KP04151	PI3K-Akt signaling pathway	Rice
+KP04152	AMPK signaling pathway	Rice
+KP04150	mTOR signaling pathway	Rice
+KP04075	Plant hormone signal transduction [PATH:osa04075]	Rice
+KP04080	Neuroactive ligand-receptor interaction	Rice
+KP04060	Cytokine-cytokine receptor interaction	Rice
+KP04061	Viral protein interaction with cytokine and cytokine receptor	Rice
+KP04512	ECM-receptor interaction	Rice
+KP04514	Cell adhesion molecules	Rice
+KP04144	Endocytosis [PATH:osa04144]	Rice
+KP04145	Phagosome [PATH:osa04145]	Rice
+KP04142	Lysosome	Rice
+KP04146	Peroxisome [PATH:osa04146]	Rice
+KP04140	Autophagy - animal	Rice
+KP04138	Autophagy - yeast	Rice
+KP04136	Autophagy - other [PATH:osa04136]	Rice
+KP04137	Mitophagy - animal	Rice
+KP04139	Mitophagy - yeast	Rice
+KP04110	Cell cycle	Rice
+KP04111	Cell cycle - yeast	Rice
+KP04112	Cell cycle - Caulobacter	Rice
+KP04113	Meiosis - yeast	Rice
+KP04114	Oocyte meiosis	Rice
+KP04210	Apoptosis	Rice
+KP04214	Apoptosis - fly	Rice
+KP04215	Apoptosis - multiple species	Rice
+KP04216	Ferroptosis	Rice
+KP04217	Necroptosis	Rice
+KP04115	p53 signaling pathway	Rice
+KP04218	Cellular senescence	Rice
+KP04510	Focal adhesion	Rice
+KP04520	Adherens junction	Rice
+KP04530	Tight junction	Rice
+KP04540	Gap junction	Rice
+KP04550	Signaling pathways regulating pluripotency of stem cells	Rice
+KP02024	Quorum sensing	Rice
+KP05111	Biofilm formation - Vibrio cholerae	Rice
+KP02025	Biofilm formation - Pseudomonas aeruginosa	Rice
+KP02026	Biofilm formation - Escherichia coli	Rice
+KP02030	Bacterial chemotaxis	Rice
+KP02040	Flagellar assembly	Rice
+KP04810	Regulation of actin cytoskeleton	Rice
+KP04640	Hematopoietic cell lineage	Rice
+KP04610	Complement and coagulation cascades	Rice
+KP04611	Platelet activation	Rice
+KP04613	Neutrophil extracellular trap formation	Rice
+KP04620	Toll-like receptor signaling pathway	Rice
+KP04624	Toll and Imd signaling pathway	Rice
+KP04621	NOD-like receptor signaling pathway	Rice
+KP04622	RIG-I-like receptor signaling pathway	Rice
+KP04623	Cytosolic DNA-sensing pathway	Rice
+KP04625	C-type lectin receptor signaling pathway	Rice
+KP04650	Natural killer cell mediated cytotoxicity	Rice
+KP04612	Antigen processing and presentation	Rice
+KP04660	T cell receptor signaling pathway	Rice
+KP04658	Th1 and Th2 cell differentiation	Rice
+KP04659	Th17 cell differentiation	Rice
+KP04657	IL-17 signaling pathway	Rice
+KP04662	B cell receptor signaling pathway	Rice
+KP04664	Fc epsilon RI signaling pathway	Rice
+KP04666	Fc gamma R-mediated phagocytosis	Rice
+KP04670	Leukocyte transendothelial migration	Rice
+KP04672	Intestinal immune network for IgA production	Rice
+KP04062	Chemokine signaling pathway	Rice
+KP04911	Insulin secretion	Rice
+KP04910	Insulin signaling pathway	Rice
+KP04922	Glucagon signaling pathway	Rice
+KP04923	Regulation of lipolysis in adipocytes	Rice
+KP04920	Adipocytokine signaling pathway	Rice
+KP03320	PPAR signaling pathway	Rice
+KP04929	GnRH secretion	Rice
+KP04912	GnRH signaling pathway	Rice
+KP04913	Ovarian steroidogenesis	Rice
+KP04915	Estrogen signaling pathway	Rice
+KP04914	Progesterone-mediated oocyte maturation	Rice
+KP04917	Prolactin signaling pathway	Rice
+KP04921	Oxytocin signaling pathway	Rice
+KP04926	Relaxin signaling pathway	Rice
+KP04935	Growth hormone synthesis, secretion and action	Rice
+KP04918	Thyroid hormone synthesis	Rice
+KP04919	Thyroid hormone signaling pathway	Rice
+KP04928	Parathyroid hormone synthesis, secretion and action	Rice
+KP04916	Melanogenesis	Rice
+KP04924	Renin secretion	Rice
+KP04614	Renin-angiotensin system	Rice
+KP04925	Aldosterone synthesis and secretion	Rice
+KP04927	Cortisol synthesis and secretion	Rice
+KP04260	Cardiac muscle contraction	Rice
+KP04261	Adrenergic signaling in cardiomyocytes	Rice
+KP04270	Vascular smooth muscle contraction	Rice
+KP04970	Salivary secretion	Rice
+KP04971	Gastric acid secretion	Rice
+KP04972	Pancreatic secretion	Rice
+KP04976	Bile secretion	Rice
+KP04973	Carbohydrate digestion and absorption	Rice
+KP04974	Protein digestion and absorption	Rice
+KP04975	Fat digestion and absorption	Rice
+KP04979	Cholesterol metabolism	Rice
+KP04977	Vitamin digestion and absorption	Rice
+KP04978	Mineral absorption	Rice
+KP04962	Vasopressin-regulated water reabsorption	Rice
+KP04960	Aldosterone-regulated sodium reabsorption	Rice
+KP04961	Endocrine and other factor-regulated calcium reabsorption	Rice
+KP04964	Proximal tubule bicarbonate reclamation	Rice
+KP04966	Collecting duct acid secretion	Rice
+KP04724	Glutamatergic synapse	Rice
+KP04727	GABAergic synapse	Rice
+KP04725	Cholinergic synapse	Rice
+KP04728	Dopaminergic synapse	Rice
+KP04726	Serotonergic synapse	Rice
+KP04720	Long-term potentiation	Rice
+KP04730	Long-term depression	Rice
+KP04723	Retrograde endocannabinoid signaling	Rice
+KP04721	Synaptic vesicle cycle	Rice
+KP04722	Neurotrophin signaling pathway	Rice
+KP04744	Phototransduction	Rice
+KP04745	Phototransduction - fly	Rice
+KP04740	Olfactory transduction	Rice
+KP04742	Taste transduction	Rice
+KP04750	Inflammatory mediator regulation of TRP channels	Rice
+KP04320	Dorso-ventral axis formation	Rice
+KP04360	Axon guidance	Rice
+KP04361	Axon regeneration	Rice
+KP04380	Osteoclast differentiation	Rice
+KP04211	Longevity regulating pathway	Rice
+KP04212	Longevity regulating pathway - worm	Rice
+KP04213	Longevity regulating pathway - multiple species	Rice
+KP04710	Circadian rhythm	Rice
+KP04713	Circadian entrainment	Rice
+KP04711	Circadian rhythm - fly	Rice
+KP04712	Circadian rhythm - plant [PATH:osa04712]	Rice
+KP04714	Thermogenesis	Rice
+KP04626	Plant-pathogen interaction [PATH:osa04626]	Rice
+KP05200	Pathways in cancer	Rice
+KP05202	Transcriptional misregulation in cancer	Rice
+KP05206	MicroRNAs in cancer	Rice
+KP05205	Proteoglycans in cancer	Rice
+KP05204	Chemical carcinogenesis - DNA adducts	Rice
+KP05207	Chemical carcinogenesis - receptor activation	Rice
+KP05208	Chemical carcinogenesis - reactive oxygen species	Rice
+KP05203	Viral carcinogenesis	Rice
+KP05230	Central carbon metabolism in cancer	Rice
+KP05231	Choline metabolism in cancer	Rice
+KP05235	PD-L1 expression and PD-1 checkpoint pathway in cancer	Rice
+KP05210	Colorectal cancer	Rice
+KP05212	Pancreatic cancer	Rice
+KP05225	Hepatocellular carcinoma	Rice
+KP05226	Gastric cancer	Rice
+KP05214	Glioma	Rice
+KP05216	Thyroid cancer	Rice
+KP05221	Acute myeloid leukemia	Rice
+KP05220	Chronic myeloid leukemia	Rice
+KP05217	Basal cell carcinoma	Rice
+KP05218	Melanoma	Rice
+KP05211	Renal cell carcinoma	Rice
+KP05219	Bladder cancer	Rice
+KP05215	Prostate cancer	Rice
+KP05213	Endometrial cancer	Rice
+KP05224	Breast cancer	Rice
+KP05222	Small cell lung cancer	Rice
+KP05223	Non-small cell lung cancer	Rice
+KP05166	Human T-cell leukemia virus 1 infection	Rice
+KP05170	Human immunodeficiency virus 1 infection	Rice
+KP05161	Hepatitis B	Rice
+KP05160	Hepatitis C	Rice
+KP05171	Coronavirus disease - COVID-19	Rice
+KP05164	Influenza A	Rice
+KP05162	Measles	Rice
+KP05168	Herpes simplex virus 1 infection	Rice
+KP05163	Human cytomegalovirus infection	Rice
+KP05167	Kaposi sarcoma-associated herpesvirus infection	Rice
+KP05169	Epstein-Barr virus infection	Rice
+KP05165	Human papillomavirus infection	Rice
+KP05110	Vibrio cholerae infection	Rice
+KP05120	Epithelial cell signaling in Helicobacter pylori infection	Rice
+KP05130	Pathogenic Escherichia coli infection	Rice
+KP05132	Salmonella infection	Rice
+KP05131	Shigellosis	Rice
+KP05135	Yersinia infection	Rice
+KP05133	Pertussis	Rice
+KP05134	Legionellosis	Rice
+KP05150	Staphylococcus aureus infection	Rice
+KP05152	Tuberculosis	Rice
+KP05100	Bacterial invasion of epithelial cells	Rice
+KP05146	Amoebiasis	Rice
+KP05144	Malaria	Rice
+KP05145	Toxoplasmosis	Rice
+KP05140	Leishmaniasis	Rice
+KP05142	Chagas disease	Rice
+KP05143	African trypanosomiasis	Rice
+KP05310	Asthma	Rice
+KP05322	Systemic lupus erythematosus	Rice
+KP05323	Rheumatoid arthritis	Rice
+KP05320	Autoimmune thyroid disease	Rice
+KP05321	Inflammatory bowel disease	Rice
+KP05330	Allograft rejection	Rice
+KP05332	Graft-versus-host disease	Rice
+KP05340	Primary immunodeficiency	Rice
+KP05010	Alzheimer disease	Rice
+KP05012	Parkinson disease	Rice
+KP05014	Amyotrophic lateral sclerosis	Rice
+KP05016	Huntington disease	Rice
+KP05017	Spinocerebellar ataxia	Rice
+KP05020	Prion disease	Rice
+KP05022	Pathways of neurodegeneration - multiple diseases	Rice
+KP05030	Cocaine addiction	Rice
+KP05031	Amphetamine addiction	Rice
+KP05032	Morphine addiction	Rice
+KP05033	Nicotine addiction	Rice
+KP05034	Alcoholism	Rice
+KP05417	Lipid and atherosclerosis	Rice
+KP05418	Fluid shear stress and atherosclerosis	Rice
+KP05410	Hypertrophic cardiomyopathy	Rice
+KP05412	Arrhythmogenic right ventricular cardiomyopathy	Rice
+KP05414	Dilated cardiomyopathy	Rice
+KP05415	Diabetic cardiomyopathy	Rice
+KP05416	Viral myocarditis	Rice
+KP04930	Type II diabetes mellitus	Rice
+KP04940	Type I diabetes mellitus	Rice
+KP04950	Maturity onset diabetes of the young	Rice
+KP04936	Alcoholic liver disease	Rice
+KP04932	Non-alcoholic fatty liver disease	Rice
+KP04931	Insulin resistance	Rice
+KP04933	AGE-RAGE signaling pathway in diabetic complications	Rice
+KP04934	Cushing syndrome	Rice
+KP01501	beta-Lactam resistance	Rice
+KP01502	Vancomycin resistance	Rice
+KP01503	Cationic antimicrobial peptide (CAMP) resistance	Rice
+KP01521	EGFR tyrosine kinase inhibitor resistance	Rice
+KP01524	Platinum drug resistance	Rice
+KP01523	Antifolate resistance	Rice
+KP01522	Endocrine resistance	Rice
+KP01000	Enzymes [BR:osa01000]	Rice
+KP01001	Protein kinases [BR:osa01001]	Rice
+KP01009	Protein phosphatases and associated proteins [BR:osa01009]	Rice
+KP01002	Peptidases and inhibitors [BR:osa01002]	Rice
+KP01003	Glycosyltransferases [BR:osa01003]	Rice
+KP01005	Lipopolysaccharide biosynthesis proteins [BR:osa01005]	Rice
+KP01011	Peptidoglycan biosynthesis and degradation proteins [BR:osa01011]	Rice
+KP01004	Lipid biosynthesis proteins [BR:osa01004]	Rice
+KP01008	Polyketide biosynthesis proteins [BR:osa01008]	Rice
+KP01006	Prenyltransferases [BR:osa01006]	Rice
+KP01007	Amino acid related enzymes [BR:osa01007]	Rice
+KP00199	Cytochrome P450 [BR:osa00199]	Rice
+KP00194	Photosynthesis proteins [BR:osa00194]	Rice
+KP03000	Transcription factors [BR:osa03000]	Rice
+KP03021	Transcription machinery [BR:osa03021]	Rice
+KP03019	Messenger RNA biogenesis [BR:osa03019]	Rice
+KP03041	Spliceosome [BR:osa03041]	Rice
+KP03011	Ribosome [BR:osa03011]	Rice
+KP03009	Ribosome biogenesis [BR:osa03009]	Rice
+KP03016	Transfer RNA biogenesis [BR:osa03016]	Rice
+KP03012	Translation factors [BR:osa03012]	Rice
+KP03110	Chaperones and folding catalysts [BR:osa03110]	Rice
+KP04131	Membrane trafficking [BR:osa04131]	Rice
+KP04121	Ubiquitin system [BR:osa04121]	Rice
+KP03051	Proteasome [BR:osa03051]	Rice
+KP03032	DNA replication proteins [BR:osa03032]	Rice
+KP03036	Chromosome and associated proteins [BR:osa03036]	Rice
+KP03400	DNA repair and recombination proteins [BR:osa03400]	Rice
+KP03029	Mitochondrial biogenesis [BR:osa03029]	Rice
+KP02000	Transporters [BR:osa02000]	Rice
+KP02044	Secretion system [BR:osa02044]	Rice
+KP02042	Bacterial toxins [BR:osa02042]	Rice
+KP02022	Two-component system	Rice
+KP02035	Bacterial motility proteins	Rice
+KP04812	Cytoskeleton proteins [BR:osa04812]	Rice
+KP04147	Exosome [BR:osa04147]	Rice
+KP02048	Prokaryotic defense system [BR:osa02048]	Rice
+KP04030	G protein-coupled receptors [BR:osa04030]	Rice
+KP04050	Cytokine receptors	Rice
+KP04054	Pattern recognition receptors [BR:osa04054]	Rice
+KP03310	Nuclear receptors	Rice
+KP04040	Ion channels [BR:osa04040]	Rice
+KP04031	GTP-binding proteins [BR:osa04031]	Rice
+KP04052	Cytokines and growth factors	Rice
+KP04515	Cell adhesion molecules	Rice
+KP04090	CD molecules [BR:osa04090]	Rice
+KP01504	Antimicrobial resistance genes	Rice
+KP00535	Proteoglycans [BR:osa00535]	Rice
+KP00536	Glycosaminoglycan binding proteins [BR:osa00536]	Rice
+KP00537	Glycosylphosphatidylinositol (GPI)-anchored proteins [BR:osa00537]	Rice
+KP04091	Lectins [BR:osa04091]	Rice
+KP04990	Domain-containing proteins not elsewhere classified [BR:osa04990]	Rice
+KP03200	Viral proteins	Rice
+KP03210	Viral fusion proteins	Rice
+KP03100	Non-coding RNAs [BR:osa03100]	Rice
+KP99980	Enzymes with EC numbers	Rice
+KP99981	Carbohydrate metabolism	Rice
+KP99982	Energy metabolism	Rice
+KP99983	Lipid metabolism	Rice
+KP99984	Nucleotide metabolism	Rice
+KP99985	Amino acid metabolism	Rice
+KP99986	Glycan metabolism	Rice
+KP99987	Cofactor metabolism	Rice
+KP99988	Secondary metabolism	Rice
+KP99999	Others	Rice
+KP99973	Transcription	Rice
+KP99974	Translation	Rice
+KP99975	Protein processing	Rice
+KP99976	Replication and repair	Rice
+KP99998	Others	Rice
+KP99977	Transport	Rice
+KP99978	Cell growth	Rice
+KP99993	Cell motility	Rice
+KP99995	Signaling proteins	Rice
+KP99992	Structural proteins	Rice
+KP99994	Others	Rice
+KP99979	Unclassified viral proteins	Rice
+KP99996	General function prediction only	Rice
